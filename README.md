@@ -1,7 +1,5 @@
 # README
 
-### Installation Requirements:
-
 ### Project Info/ System Requirements:
 - Python version 3.11.
 - Linux or Unix-based Operating System required to run the project using the instructions below.
